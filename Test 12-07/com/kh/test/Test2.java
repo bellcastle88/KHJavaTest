@@ -24,7 +24,7 @@ public class Test2 {
         System.out.println("bool = " + bool);
         // false = false 
         // True
-        
+         
         bool = ('C' == 67);
         System.out.println("bool = " + bool);
         // C(67) == 67 
