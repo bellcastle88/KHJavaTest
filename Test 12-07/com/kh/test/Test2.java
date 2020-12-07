@@ -19,7 +19,7 @@ public class Test2 {
         //char은 숫자랑 붙으면 숫자가 됌
         
         boolean bool = false;
-        
+            
         bool = (2.0 == 5/2);
         System.out.println("bool = " + bool);
         // false = false 
