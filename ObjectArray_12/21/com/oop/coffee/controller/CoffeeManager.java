@@ -27,7 +27,6 @@ public class CoffeeManager {
 		System.out.println("원산지          지역");
 		for (int i = 0; i < coffee.length; i++) {
 			coffee[i].print();
-
 		}
 	}
 }
